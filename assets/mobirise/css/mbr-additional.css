@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 #content5-70 P {
@@ -227,6 +227,7 @@
   color: #ffffff;
 }
 
+
 #footer1-5 P {
   font-size: 16px;
   text-align: left;
@@ -267,6 +268,8 @@
 }
 #slider-y B {
   color: #000000;
+  text-align: center;
+  font-family: 'Playfair Display', sans-serif;
 }
 
 #content5-27 P {
@@ -458,10 +461,10 @@
   text-align: center;
 }
 #msg-box3-89 .mbr-section-title {
-  color: #ffffff;
+  color: #f2f2f2;
 }
 #msg-box3-89 .lead P {
-  color: #ffffff;
+  color: #f2f2f2;
 }
 #msg-box3-88 .mbr-header .mbr-header__text {
   text-align: center;
